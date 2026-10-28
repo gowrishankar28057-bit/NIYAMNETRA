@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NeyamNetra">
+  <defs>
+    <linearGradient id="mEmblem" x1="4" y1="4" x2="60" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b64f5"/><stop offset="1" stop-color="#1a3269"/>
+    </linearGradient>
+    <linearGradient id="mIris" x1="22" y1="24" x2="44" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75e8bb"/><stop offset="1" stop-color="#12b783"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 3 58 13v20.5c0 17-10.6 28.6-26 35C16.6 62.1 6 50.5 6 33.5V13L32 3Z" fill="url(#mEmblem)"/>
+  <path d="M13 34c5.2-7.9 11.8-11.8 19-11.8S45.8 26.1 51 34c-5.2 7.9-11.8 11.8-19 11.8S18.2 41.9 13 34Z" fill="#ffffff" fill-opacity="0.94"/>
+  <circle cx="32" cy="34" r="7.8" fill="url(#mIris)"/>
+  <circle cx="32" cy="34" r="3.4" fill="#07122a"/>
+  <circle cx="34.4" cy="31.6" r="1.6" fill="#ffffff"/>
+</svg>
