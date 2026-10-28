@@ -1,0 +1,22 @@
+<svg width="320" height="72" viewBox="0 0 320 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NeyamNetra">
+  <defs>
+    <linearGradient id="nnEmblem" x1="4" y1="6" x2="60" y2="66" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b64f5"/>
+      <stop offset="1" stop-color="#1a3269"/>
+    </linearGradient>
+    <linearGradient id="nnIris" x1="20" y1="24" x2="44" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75e8bb"/>
+      <stop offset="1" stop-color="#12b783"/>
+    </linearGradient>
+  </defs>
+  <!-- Emblem: a protective shield cradling an eye (Netra) over a document fold -->
+  <path d="M32 4 56 13v20c0 16-10 27-24 33C18 60 8 49 8 33V13L32 4Z" fill="url(#nnEmblem)"/>
+  <path d="M32 9 51 16.2V33c0 13.2-8 22.3-19 27.4C21 55.3 13 46.2 13 33V16.2L32 9Z" fill="#ffffff" fill-opacity="0.08"/>
+  <path d="M15 34c5-7.5 11.3-11.3 17-11.3S44 26.5 49 34c-5 7.5-11.3 11.3-17 11.3S20 41.5 15 34Z" fill="#ffffff" fill-opacity="0.92"/>
+  <circle cx="32" cy="34" r="7.4" fill="url(#nnIris)"/>
+  <circle cx="32" cy="34" r="3.2" fill="#07122a"/>
+  <circle cx="34.2" cy="31.8" r="1.5" fill="#ffffff"/>
+  <!-- Wordmark -->
+  <text x="74" y="34" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="27" font-weight="800" fill="#0b1b3b" letter-spacing="-0.4">Neyam<tspan fill="#07946b">Netra</tspan></text>
+  <text x="75" y="54" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="11.5" font-weight="600" fill="#4e74bd" letter-spacing="2.4">AICTE EOA · DECISION SUPPORT</text>
+</svg>
